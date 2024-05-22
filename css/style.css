@@ -165,7 +165,7 @@ body {
     color: var(--gradient-one);
 }
 
-@media screen and (min-width: 48.25rem) {
+@media screen and (min-width: 80rem) {
 
     body{
         background-color: var(--very-dark-blue);
